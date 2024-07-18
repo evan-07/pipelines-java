@@ -5,6 +5,8 @@
 
 trigger:
 - dev
+- qa
+- main
 
 strategy:
   matrix:
